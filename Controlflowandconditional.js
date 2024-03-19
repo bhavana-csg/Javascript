@@ -24,7 +24,7 @@ for(var i=0;i<biggest;i++)
 				else
 				{
 					console.log(b);
-					break;
+					break
 				}
 			}
 			else
